@@ -1,0 +1,30 @@
+_repo: The-Broken-SwordA-Pictorial-Page-in-Reconstruction_41857
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bullock, James Dempsey
+    gutenberg_agent_id: '41400'
+    url: http://www.gutenberg.org/2009/agents/41400
+covers:
+- cover_type: archival
+  image_path: 41857-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Worthington, D.
+    alias: Worthington, Dennison
+    gutenberg_agent_id: '41399'
+    url: http://www.gutenberg.org/2009/agents/41399
+description: ''
+gutenberg_issued: '2013-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Fiction'
+title: The Broken Sword; Or, A Pictorial Page in Reconstruction
+url: http://www.gutenberg.org/ebooks/41857
